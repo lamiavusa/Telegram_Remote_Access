@@ -2,12 +2,15 @@
 This program allows users to control their PC remotely using Telegram. By setting up a Telegram bot and integrating it with the PC, users can send commands to the bot, which the program then interprets and executes on the PC.
 
 **1. Run the Installation Script** 
+
 Double-click install_python.bat to install Python 3.10 and any required dependencies.
 
 **2. Build the Program** 
+
 Run build.bat to install all necessary libraries and set up the program.
 
 **3. Configure the Telegram Bot**
+
 To use the program, you will need your bot token and your user ID.
 
 **4. Create Your Bot Using BotFather**
@@ -24,10 +27,12 @@ Open Telegram and search for getmyid_bot.
 Start a chat with this bot to receive your user ID. Copy your user ID for the next steps.
 
 **5. Insert Your Token and ID** 
+
 Insert your bot token and user ID. 
 Wait for the program to create the executable file (*.exe).
 
 **6. Start the Telegram Chat** 
+
 Search for your bot on Telegram using the name you provided earlier. 
 Start a chat with your bot. 
 You can now start the program!
