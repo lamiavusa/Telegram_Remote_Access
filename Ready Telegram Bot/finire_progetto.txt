@@ -1,0 +1,4 @@
+sistemare destory
+creare sito per esso
+sistemare readme
+Accesso al file system: Consentire agli utenti di navigare nel file system del PC remoto, visualizzare i file, scaricarli o caricarli da remoto. Questa funzionalità è utile per trasferire file tra il dispositivo remoto e il PC.

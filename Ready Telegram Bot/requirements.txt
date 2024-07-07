@@ -1,0 +1,10 @@
+python-telegram-bot==13.7
+pywin32==306
+psutil==5.9.5
+pyautogui==0.9.53
+InquirerPy==0.3.4
+pyobf2==1.2.0
+Requests==2.30.0
+pyfiglet==0.8.post1
+pycryptodome==3.17
+requests
