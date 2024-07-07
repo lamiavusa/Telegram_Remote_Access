@@ -43,5 +43,7 @@ Press Win + R to open the Run dialog.
 Type shell:startup and press Enter to open the Startup folder.
 Place a shortcut of the executable file or script into this folder to ensure the program starts automatically with Windows.
 
+Please Note: This program is currently under development and may not be fully functional or feature-complete.
+
 **IMPORTANT**: I do not assume any responsibility for the use of this program. Use it at your own risk.
 
